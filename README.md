@@ -1,37 +1,37 @@
 # ruby-ecb
 quick and dirty ruby script to download european central bank currency rates and make it avalaible on redis db.
-You can acces the value quering the value code ex: get USD
+You can acces the value quering the value code example: get USD
 
 Currency accessibles to Euro
 
-USD	US dollar	
-JPY	Japanese yen	
-BGN	Bulgarian lev
-CZK	Czech koruna	
-DKK	Danish krone	
-GBP	Pound sterling	
-HUF	Hungarian forint	
-PLN	Polish zloty
-RON	Romanian leu	
-SEK	Swedish krona	
-CHF	Swiss franc 
-NOK	Norwegian krone
-HRK	Croatian kuna	
-RUB	Russian rouble	
-TRY	Turkish lira	
-AUD	Australian dollar	
-BRL	Brazilian real	
-CAD	Canadian dollar
-CNY	Chinese yuan renminbi	
-HKD	Hong Kong dollar	
-IDR	Indonesian rupiah	
-ILS	Israeli shekel	
-INR	Indian rupee	
-KRW	South Korean won	
-MXN	Mexican peso	
-MYR	Malaysian ringgit	
-NZD	New Zealand dollar	
-PHP	Philippine peso
-SGD	Singapore dollar
-THB	Thai baht	
+USD	US dollar	<br>
+JPY	Japanese yen	<br>
+BGN	Bulgarian lev<br>
+CZK	Czech koruna	<br>
+DKK	Danish krone	<br>
+GBP	Pound sterling	<br>
+HUF	Hungarian forint	<br>
+PLN	Polish zloty<br>
+RON	Romanian leu	<br>
+SEK	Swedish krona	<br>
+CHF	Swiss franc <br>
+NOK	Norwegian krone<br>
+HRK	Croatian kuna	<br>
+RUB	Russian rouble	<br>
+TRY	Turkish lira	<br>
+AUD	Australian dollar	<br>
+BRL	Brazilian real	<br>
+CAD	Canadian dollar<br>
+CNY	Chinese yuan renminbi	<br>
+HKD	Hong Kong dollar	<br>
+IDR	Indonesian rupiah	<br>
+ILS	Israeli shekel	<br>
+INR	Indian rupee	<br>
+KRW	South Korean won	<br>
+MXN	Mexican peso	<br>
+MYR	Malaysian ringgit	<br>
+NZD	New Zealand dollar	<br>
+PHP	Philippine peso<br>
+SGD	Singapore dollar<br>
+THB	Thai baht	<br>
 ZAR	South African rand
