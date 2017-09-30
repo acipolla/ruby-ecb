@@ -35,3 +35,5 @@ PHP	Philippine peso<br>
 SGD	Singapore dollar<br>
 THB	Thai baht	<br>
 ZAR	South African rand
+
+if you use this project please let me know! Thanks
